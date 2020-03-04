@@ -1,0 +1,59 @@
+a{
+    text-decoration: none;
+    font-size: 20px;
+   
+}
+.hyper{
+    margin-right: 30px;
+}
+input{
+    width: 200px;
+    height: 50px;
+    border: 5px solid black;
+    margin-bottom: 20px;
+}
+
+header {
+    text-align: right;
+    
+}
+
+.right{
+    margin-right: 30px;
+}
+
+.card{
+    width: 300px;
+    height: 150px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 5px black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+    background-color: white;
+}
+
+.article{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+body{
+    margin: 100px;
+    background-color: rgb(164, 216, 164);
+}
+
+p {
+    font-size: 20px;
+}
+
+textarea{
+    width: 200px;
+    height: 75px;
+    border: 5px solid black;
+    margin-bottom: 20px;
+}
